@@ -9,7 +9,7 @@ URL_EUR = 'https://banki24.by/minsk/kurs/eur'
 URL_RUB = 'https://banki24.by/minsk/kurs/rub'
 URL_PLN = 'https://banki24.by/minsk/kurs/pln'
 
-TOKEN = '1699874785:AAFtdz-gEPcMRXT4RQIKgOUsOa2eeyFzRWY'
+TOKEN = 'ПОЛУЧАЕТЕ ТОКЕН И ВСТАВЛЯЕТЕ СЮДА'
 
 BOT = telebot.TeleBot(TOKEN)
 
