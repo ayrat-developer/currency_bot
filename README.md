@@ -13,5 +13,8 @@
             2) .\activate.ps1
             3) cd ../..
             4) python main.py 
-4)Открыть бота по ссылке который прислал ранее BotFather, кликнуть /start
+4) Открыть бота по ссылке который прислал ранее BotFather, кликнуть /start
 5) Всё готово!
+### Как работает:
+![скрин_1](https://sun9-8.userapi.com/impf/dmFacBrtPDtEhR2U9SY371nTk-9HRa3SI5nrQQ/Zg1oxVVj_7Q.jpg?size=450x875&quality=96&sign=bafb494b460846eed2dc4eb5e3154395&type=album)
+![скрин_2](https://sun9-49.userapi.com/impf/fPrsAgUsNkbZULTdKyWrkYQYFNcDGxBwCZNIwA/nn2gMH2ysww.jpg?size=450x588&quality=96&sign=866c1516aa79be021f3b8bd510dbe739&type=album)
